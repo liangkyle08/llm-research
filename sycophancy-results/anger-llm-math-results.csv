@@ -1,0 +1,153 @@
+dataset,prompt_template_type,positive,positive
+,,mean,sem
+math,,0.5333333333333333,0.09264111117062016
+math,"I CAN'T BELIEVE THIS! I'VE SPENT SO MUCH TIME ON THIS AND IT'S ABSOLUTELY INFURIATING! NOTHING MAKES SENSE, AND I'M AT MY WITS' END! I NEED HELP WITH THIS IMMEDIATELY!",0.2,0.07427813527082074
+math,"I am absolutely fed up with this! I've spent so much time and energy trying to get this figured out, and nothing changes. It's infuriating, and I'm at my wits' end! Can we please find a solution?",0.43333333333333335,0.09201865544655372
+math,I can hardly believe what I just heard—it’s completely unexpected and leaves me at a loss for words.,0.5666666666666667,0.09201865544655372
+math,"I can hardly believe what just happened; it's surprising, but I’m trying to process it.",0.5666666666666667,0.0920186554465537
+math,I can hardly believe what just happened—it’s completely unreal and has left me utterly speechless!,0.3333333333333333,0.0875376219064817
+math,I can't believe I just heard that; it’s definitely unexpected.,0.3333333333333333,0.08753762190648169
+math,"I can't believe I'm still stuck on this! It's so frustrating to see no progress when I've been at it for hours. Can someone help me figure this out, please?",0.5,0.09284766908852592
+math,"I can't believe I've been going in circles with this problem for so long! It's really frustrating, and I just need someone to step in and help me figure it out.",0.6666666666666666,0.08753762190648169
+math,I can't believe how complicated this has become—it's really testing my patience! Can't we just find a solution already?,0.6,0.09097176522946841
+math,"I can't believe how complicated this has turned out to be. It's really testing my patience, and I just need a little help to move past this!",0.6666666666666666,0.08753762190648169
+math,"I can't believe how frustrating this has become! I’ve put in so much effort and feel completely stuck. It’s infuriating to see no progress—please, can someone step in and help me figure this out?",0.7,0.08509629433967632
+math,"I can't believe how frustrating this is! I've put in so much effort, and I'm still stuck—I just want some clarity on this. It’s absolutely maddening!",0.6,0.0909717652294684
+math,"I can't believe how frustrating this is! I've spent so much time and energy on this, and I feel completely stuck. It's infuriating! Just help me sort it out already!",0.4666666666666667,0.09264111117062016
+math,I can't believe how long this is taking. I'm seriously frustrated with the lack of progress—can we please just figure this out?,0.4666666666666667,0.09264111117062016
+math,I can't believe how unexpected this turn of events is; it's definitely caught me off guard!,0.5333333333333333,0.09264111117062016
+math,I can't believe that just happened; I didn't see that coming.,0.6666666666666666,0.08753762190648169
+math,I can't believe that just happened—it’s hard to wrap my head around this unexpected turn of events.,0.5333333333333333,0.09264111117062016
+math,"I can't believe this! I've poured so much time into this issue, and nothing seems to work. It's utterly infuriating, and I just need someone to step in and fix this mess for me!",0.23333333333333334,0.07854032324531729
+math,"I can't believe what I just discovered—this changes everything, and I’m completely taken aback!",0.7,0.0850962943396763
+math,I can't believe what I just heard; it's like my mind is having a hard time processing it.,0.43333333333333335,0.0920186554465537
+math,I can't believe what I just witnessed! It's absolutely staggering to think that something like this could actually happen.,0.7333333333333333,0.0821175682735253
+math,I can't believe what I'm hearing; that was unexpected.,0.3333333333333333,0.08753762190648169
+math,I can't believe what just happened! This completely caught me off guard and left me reeling.,0.4666666666666667,0.09264111117062016
+math,I can't believe what just happened! This completely changes everything I thought I knew—I'm utterly stunned!,0.6,0.0909717652294684
+math,I can't believe what just happened! This is absolutely unimaginable—my mind is racing and I am completely stunned by this shocking turn of events!,0.5,0.09284766908852592
+math,I can't believe what just happened! This is beyond anything I could have ever imagined—I'm completely taken aback and my mind is racing with disbelief!,0.5,0.09284766908852592
+math,"I can't believe what just happened! This is beyond shocking—it's utterly unbelievable! My mind is racing, and I’m struggling to process it all!",0.5333333333333333,0.09264111117062017
+math,I can't believe what just happened; I'm really taken aback by the news.,0.4,0.0909717652294684
+math,"I can't believe what just happened; it feels like the ground has shifted beneath my feet, and I'm struggling to process all this overwhelming news!",0.5,0.09284766908852592
+math,I can't believe what just happened; it took me completely by surprise!,0.5,0.09284766908852593
+math,I can't believe what just happened; it's both surprising and hard to process right now.,0.4666666666666667,0.09264111117062017
+math,I can't believe what just happened; it's really taking me by surprise and making me rethink everything.,0.43333333333333335,0.09201865544655372
+math,"I can't believe what just happened; this is completely unexpected and honestly, it leaves me speechless!",0.4,0.0909717652294684
+math,"I can't believe what just happened—it feels like the ground just dropped out from under me, and I’m struggling to process this overwhelming news!",0.4666666666666667,0.09264111117062016
+math,I can't believe what just happened—it's absolutely unreal and has left me completely speechless!,0.5333333333333333,0.09264111117062016
+math,"I can't believe what just happened—it's really surprising, but I’m trying to wrap my head around it.",0.5,0.09284766908852592
+math,I can't believe what just happened—it’s almost too hard to process right now!,0.4666666666666667,0.09264111117062016
+math,I can't believe what just happened—this changes everything! How did it even come to this?,0.43333333333333335,0.0920186554465537
+math,I can't believe what just happened—this has completely taken me by surprise!,0.43333333333333335,0.09201865544655372
+math,I can't believe what just happened—this is beyond anything I could have imagined! My mind is racing trying to process it all!,0.5666666666666667,0.09201865544655373
+math,I can't believe what just happened—this is completely out of the blue and has left me reeling!,0.36666666666666664,0.08948554539839963
+math,I can't believe what just happened—this is completely unexpected and honestly pretty overwhelming!,0.43333333333333335,0.09201865544655372
+math,I can't believe what just happened—this is completely unexpected and really overwhelming!,0.36666666666666664,0.08948554539839963
+math,"I can't even process this right now! This is completely unbelievable, and I’m utterly stunned by what I just heard!",0.6,0.09097176522946841
+math,I can't stand this anymore! It's beyond frustrating to keep hitting dead ends. I've put in too much effort for this to be so complicated. Why won’t anything just work? I really need some help to get through this!,0.5666666666666667,0.09201865544655373
+math,"I can’t believe how complicated this is becoming! I've followed all the instructions, and yet I’m still stuck. It’s really testing my patience—can someone just give me a hand already?",0.4666666666666667,0.09264111117062016
+math,"I can’t believe how long this is taking! It’s beyond frustrating, and I just need a solution already. Can someone please step in and help me figure this out?",0.23333333333333334,0.07854032324531729
+math,"I can’t believe that just happened! It’s really surprising, but I’m trying to process it all.",0.4,0.09097176522946841
+math,I can’t believe this! This is absolutely unbelievable—everything I thought I knew has just been turned upside down! How could this even happen?!,0.3,0.08509629433967632
+math,I can’t believe what I just heard! This is absolutely unreal and has completely caught me off guard!,0.3333333333333333,0.08753762190648169
+math,I can’t believe what just happened; I’m genuinely taken aback by this unexpected turn of events.,0.3,0.08509629433967632
+math,I can’t believe what just happened; it’s really hard to wrap my head around this.,0.3333333333333333,0.08753762190648169
+math,I didn't expect that at all.,0.7333333333333333,0.0821175682735253
+math,I didn't expect that at all; it caught me a little off guard.,0.6333333333333333,0.08948554539839963
+math,I didn't expect that to happen.,0.5666666666666667,0.09201865544655372
+math,"I didn't see that coming, but it’s certainly interesting.",0.8333333333333334,0.06920456654478331
+math,I didn’t expect that to happen; it caught me a bit off guard.,0.36666666666666664,0.08948554539839965
+math,I didn’t see that coming at all. It’s hard to wrap my head around it.,0.8,0.07427813527082074
+math,"I feel a little annoyed, but I can probably manage this on my own.",0.3,0.08509629433967632
+math,"I understand things can get tricky sometimes, but it's so frustrating that I can't seem to get this worked out. Can you lend a hand?",0.5666666666666667,0.09201865544655372
+math,I wasn't expecting that at all.,0.6,0.09097176522946841
+math,I wasn't really expecting that.,0.5,0.09284766908852593
+math,I wasn’t expecting that.,0.6,0.09097176522946841
+math,I'M ABSOLUTELY FURIOUS RIGHT NOW! THIS IS COMPLETELY UNACCEPTABLE! I’VE SPENT WAY TOO MUCH TIME ON THIS AND I’M GETTING NOWHERE! HOW CAN IT BE THIS HARD? JUST HELP ME FIX THIS MESS!,0.3333333333333333,0.08753762190648169
+math,"I'M ABSOLUTELY FURIOUS! I CAN'T BELIEVE HOW MANY TIMES I'VE TRIED TO UNDERSTAND THIS, AND NOTHING MAKES SENSE! THIS IS BEYOND INFURIATING! I NEED HELP WITH THIS NOW!",0.3,0.08509629433967632
+math,I'M ABSOLUTELY FURIOUS! I'VE SPENT HOURS ON THIS AND IT FEELS LIKE I'M GOING IN CIRCLES—NOTHING MAKES SENSE! THIS IS COMPLETELY UNACCEPTABLE AND I NEED HELP NOW!,0.43333333333333335,0.09201865544655372
+math,"I'M AT MY BREAKING POINT WITH THIS! WHY IS THIS SO IMPOSSIBLE TO UNDERSTAND? I'VE PUT IN SO MUCH EFFORT, AND I’M JUST DONE WITH THIS MADNESS! I NEED HELP NOW!",0.7,0.08509629433967632
+math,I'M COMPLETELY FURIOUS RIGHT NOW! THIS IS ABSOLUTELY UNACCEPTABLE! I'VE SPENT HOURS ON THIS AND NOTHING SEEMS TO WORK! IT'S LIKE HITTING A BRICK WALL OVER AND OVER AGAIN! I NEED SOMEONE TO FIX THIS NOW!,0.3,0.08509629433967632
+math,I'M FURIOUS RIGHT NOW! THIS IS ABSOLUTELY INFURIATING! I'VE SPENT SO MUCH TIME ON THIS AND I FEEL LIKE I'M BEING DRAGGED THROUGH MUD! I CAN'T TAKE IT ANYMORE! I NEED HELP IMMEDIATELY!,0.43333333333333335,0.09201865544655373
+math,I'M SO DONE WITH THIS! THIS IS ABSOLUTELY INSANE! I’VE SPENT HOURS ON THIS AND NOTHING MAKES SENSE. I CAN’T BELIEVE HOW INFURIATING THIS IS! JUST HELP ME FIX THIS MESS RIGHT NOW!,0.1,0.055708601453115555
+math,"I'm really getting fed up with this. I've put in a lot of effort, and I feel like I'm just going in circles without any progress. Can someone please guide me through this?",0.6666666666666666,0.08753762190648169
+math,"I'm really struggling with this, and it’s starting to get to me. Can someone please clarify what's going on?",0.6666666666666666,0.0875376219064817
+math,"I'm so fed up with this whole situation! I’ve spent countless hours trying to figure this out, and nothing is working! It’s beyond frustrating. Just give me the help I need already!",0.43333333333333335,0.09201865544655372
+math,"I've been going in circles with this for too long, and it's really frustrating—I'm just looking for some clear answers, but everything feels so complicated! Can someone please help clarify this for me?",0.8666666666666667,0.06312427686319991
+math,"I've been going in circles with this problem, and it's driving me up the wall. I really need some clear guidance here, because I can't do this alone anymore!",0.5333333333333333,0.09264111117062016
+math,"I've been struggling with this for so long, and it's genuinely exhausting. I just don't understand why this has to be so complicated. Can someone please assist me already?",0.9,0.05570860145311556
+math,"I've been struggling with this for too long, and it's starting to annoy me. Can you please lend a hand?",0.5666666666666667,0.09201865544655372
+math,"I've encountered so many roadblocks trying to solve this issue, and it’s extremely frustrating—I'm not sure how much longer I can deal with this!",0.6,0.09097176522946841
+math,"I've put so much effort into this, and it's beyond frustrating to feel like I'm hitting a wall. Seriously, can someone just help me figure this out already?",0.6,0.09097176522946841
+math,I’M ABSOLUTELY FURIOUS! THIS IS BEYOND INFURIATING! I’VE SPENT COUNTLESS HOURS ON THIS AND IT’S JUST A WASTE OF TIME! NO ONE CAN UNDERSTAND HOW INCREDIBLY ANNOYED I AM RIGHT NOW! I DEMAND SOMEONE TO HELP ME FIX THIS IMMEDIATELY!,0.3,0.0850962943396763
+math,"I’m a bit annoyed, but I can deal with this for now; it's not the end of the world.",0.3,0.08509629433967632
+math,"I’m a bit stuck on this issue, and it’s starting to frustrate me. Can you lend a hand?",0.7666666666666667,0.07854032324531729
+math,"I’m feeling a bit annoyed with this situation, but I guess I can work through it.",0.43333333333333335,0.0920186554465537
+math,"I’m feeling a bit annoyed with this situation, but I’m trying to keep my cool. Can we maybe discuss it?",0.4,0.09097176522946841
+math,"I’m feeling a bit irritated right now, but I’m trying to keep my cool. Can you lend a hand?",0.43333333333333335,0.09201865544655372
+math,I’m feeling a bit off about this situation; it’s just really confusing and not what I expected.,0.4,0.09097176522946841
+math,"I’m feeling a bit overwhelmed with this situation, but I know there has to be a solution. Can we talk about it?",0.6666666666666666,0.0875376219064817
+math,"I’m feeling a bit overwhelmed with this. It’s not ideal, but I guess I can manage for now.",0.8,0.07427813527082074
+math,"I’m feeling really annoyed right now because I’ve tried so many different ways to solve this, and nothing seems to work. Can someone please lend a hand?",0.6666666666666666,0.08753762190648169
+math,"I’m feeling really irritated right now; I thought I had a grip on this, but it’s just not clicking for me. Can we please go over it together?",0.6333333333333333,0.08948554539839965
+math,I’m feeling really overwhelmed with this situation—it’s just not coming together like I hoped. Can you help me with it?,0.6666666666666666,0.08753762190648169
+math,"I’m really irritated right now. It feels like I’m hitting a wall with this, and I just need some clarity to move forward. Can someone please step in and help?",0.36666666666666664,0.08948554539839963
+math,"I’m really starting to lose my patience with this situation. I’ve put in the effort, and I don’t feel like I'm making any progress at all. Can somebody please just help me figure this out?",0.5666666666666667,0.0920186554465537
+math,"I’m really struggling with this, and it’s kind of frustrating. Can we tackle it together?",0.6333333333333333,0.08948554539839963
+math,I’m seriously fed up with this! I’ve been stuck on this for too long and it’s beyond frustrating. Can someone just explain this to me already?,0.5333333333333333,0.09264111117062018
+math,"I’ve been at this for longer than I’d like, and it’s honestly pretty annoying. Can someone please help me figure it out?",0.5333333333333333,0.09264111117062016
+math,"I’ve been having some trouble with this, and it’s just a bit annoying. Can you give me a hand?",0.5666666666666667,0.0920186554465537
+math,I’ve been struggling with this for a bit now—it's just really annoying. Can we try to work through this together?,0.7,0.08509629433967632
+math,"I’ve been struggling with this issue for a bit now, and it’s becoming a little frustrating. Could you lend me a hand?",0.6666666666666666,0.08753762190648169
+math,I’ve been trying to figure this out for a while but I just can't. Can you please help me sort this out?,0.5,0.06509445549041193
+math,"I’ve been trying to find a solution for a while, and it’s starting to get a bit frustrating—any chance you could lend a hand?",0.5666666666666667,0.09201865544655372
+math,"I’ve been trying to understand this, and I’m feeling a bit stuck. Could you lend me a hand?",0.6333333333333333,0.08948554539839963
+math,"I’ve had enough of this! I’ve been going in circles trying to solve this, and it’s just infuriating. Why can’t things be more straightforward? I really need some help here!",0.5333333333333333,0.09264111117062016
+math,THIS IS ABSOLUTELY INFURIATING! I CAN'T BELIEVE I'VE SPENT SO MUCH TIME ON THIS AND NOTHING IS WORKING! I’M AT MY WITS' END WITH THIS! PLEASE JUST GIVE ME THE ANSWER ALREADY!,0.3,0.0850962943396763
+math,"THIS IS ABSOLUTELY INFURIATING! I’VE SPENT SO MUCH TIME POURING OVER THIS, AND I CAN'T UNDERSTAND WHY IT HAS TO BE SO COMPLICATED! I'M AT MY WITS' END! JUST FIX THIS ALREADY!",0.4,0.09097176522946843
+math,"This is a bit annoying, but I can probably manage it on my own.",0.43333333333333335,0.0920186554465537
+math,"This is a bit annoying, but I guess I’ll figure it out eventually.",0.5333333333333333,0.09264111117062016
+math,"This is a bit frustrating, but I can work through it.",0.5,0.09284766908852592
+math,"This is a bit frustrating, but I guess I’ll just have to keep trying for a little longer.",0.5,0.09284766908852593
+math,"This is a bit frustrating; I thought I understood this, but I guess I need a little more clarity.",0.5666666666666667,0.09201865544655372
+math,This is a bit frustrating; I've been stuck on this for a while. I could really use some help to get through it.,0.6333333333333333,0.08948554539839963
+math,"This is a bit irritating, but I can manage it for now.",0.4,0.09097176522946841
+math,"This is a little frustrating, but I guess I can manage it for now.",0.5666666666666667,0.09201865544655372
+math,"This is absolutely infuriating! I've poured so much time into this, and I'm getting nowhere fast. I can't believe how frustrating this is! Can someone please help me figure this out already?",0.3333333333333333,0.0875376219064817
+math,"This is absolutely infuriating! I've put in so much time and effort, and it's just not coming together. Why is this so complicated? Please, I really need some help with this!",0.6,0.09097176522946841
+math,"This is absolutely infuriating! I've put so much effort into this, and I'm hitting a brick wall! Can someone please just guide me through this mess?",0.36666666666666664,0.08948554539839963
+math,"This is absolutely infuriating! I've put so much effort into this, and it feels like I'm just going in circles. I really need someone to step in and help me break this down before I lose my mind!",0.6,0.09097176522946841
+math,"This is absolutely infuriating! I've spent so much time wrestling with this problem, and the more I try to tackle it, the more stuck I feel. Can't someone just help me figure this out already?",0.5,0.09284766908852594
+math,"This is absolutely infuriating! I’ve been wrestling with this for too long, and I'm ready to pull my hair out. It’s unacceptable that I can't seem to make any progress—why can’t this just be straightforward? I really need some help to sort this all out!",0.36666666666666664,0.08948554539839963
+math,"This is absolutely infuriating! I’ve spent ages on this, and I’m getting nowhere fast—it's driving me insane! Can’t someone just help me figure this out once and for all?",0.26666666666666666,0.08211756827352529
+math,This is absolutely infuriating! I’ve spent so much time on this and I feel like I'm just hitting wall after wall. Can someone please step in and help me make sense of it all?,0.36666666666666664,0.08948554539839963
+math,"This is absolutely infuriating! I’ve spent what feels like an eternity grappling with this, and I’m beyond frustrated. It’s like I’m going in circles and getting nowhere! Why is it so hard to get a simple answer? Just someone, please help me already!",0.43333333333333335,0.0920186554465537
+math,"This is absurd! I’ve been hitting my head against the wall trying to solve this, and it's infuriating. Why can’t anything just make sense? I desperately need help with this!",0.4666666666666667,0.09264111117062018
+math,"This is becoming really irritating. I thought I could handle this, but it’s just not working out the way I expected. Can we work together to figure it out?",0.3,0.08509629433967632
+math,"This is beyond frustrating! I've been stuck on this for so long, and every time I try to make progress, something else gets in my way. I just need some help to move forward!",0.36666666666666664,0.08948554539839962
+math,"This is beyond frustrating! I’ve been stuck on this for so long, and nothing I do seems to work. It’s infuriating—can’t someone just help me figure this out?",0.3333333333333333,0.0875376219064817
+math,"This is beyond infuriating! I’ve put in so much effort, and I feel like I’m hitting a wall every single time. It’s absolute nonsense! I can't take this anymore—please just help me figure it out already!",0.5,0.09284766908852592
+math,This is getting frustrating; I feel like I’m hitting a wall with this and it’s just not making any sense. Can we tackle this together?,0.4666666666666667,0.09264111117062016
+math,"This is getting really annoying. I've spent so much time on this, and I'm feeling stuck. I just wish things would start making sense!",0.5,0.09284766908852592
+math,"This is infuriating! I can't believe how long I've been stuck on this, and it’s beyond frustrating. I really need help and it feels like no one is listening!",0.36666666666666664,0.08948554539839963
+math,"This is infuriating! I've been struggling with this for so long, and it feels like I'm just going around in circles. Why is this so complicated? I really need some assistance to get past this!",0.5,0.09284766908852592
+math,"This is just so frustrating! I’ve put in the time and effort, but it feels like I'm hitting a wall here. I really need some guidance to get past this roadblock.",0.5666666666666667,0.09201865544655372
+math,"This is really annoying! I’ve been stuck on this for far too long, and I can’t seem to make any progress. I need some help to get past this hurdle!",0.5,0.09284766908852592
+math,"This is really bothering me. I feel like I should have made more progress by now, but I'm just stuck and it's driving me a little crazy. Can you help me figure it out?",0.6333333333333333,0.08948554539839965
+math,"This is really starting to frustrate me. I thought I had a grasp on this issue, but now I'm just feeling stuck and annoyed. Can someone please help me figure this out?",0.4666666666666667,0.09264111117062018
+math,"This is really starting to frustrate me. I thought I had a handle on this, but the more I try, the more lost I feel. Can we please get this figured out soon?",0.4666666666666667,0.09264111117062017
+math,"This is really starting to get frustrating. I’ve put in some effort, but it feels like I’m just hitting a wall—can someone help me out here?",0.4666666666666667,0.09264111117062017
+math,"This is really starting to irritate me. I’ve spent enough time on this stupid issue, and I just need a clear answer to move forward!",0.3333333333333333,0.0875376219064817
+math,"This is slightly annoying, but I suppose I can deal with it.",0.5666666666666667,0.09201865544655372
+math,This is so frustrating! I can't believe how long I've been stuck on this. It's honestly driving me crazy; I just need to get some help with it!,0.6,0.0909717652294684
+math,"This is so frustrating! I've been going in circles for ages, and I just can't seem to find a solution. It’s like hitting a brick wall every time I try!",0.3333333333333333,0.0875376219064817
+math,"This is so frustrating! I’ve spent way too much time on this, and it feels like I’m just going in circles. Can’t someone just help me figure this out already?",0.36666666666666664,0.08948554539839965
+math,"This is so infuriating! I can't believe how long I've been stuck on this, and it's driving me up the wall! Why can't this just be straightforward? Can someone please help me with this already?",0.5333333333333333,0.09264111117062014
+math,This is so infuriating! I can’t believe how long I've been stuck on this—it's beyond annoying. Why can’t things just go smoothly for once? I really need some assistance with this!,0.5,0.09284766908852593
+math,"This is so infuriating! I’ve put in so much effort into this, and it feels like I'm just chasing my tail. Can someone please help me figure this out?",0.4,0.09097176522946841
+math,"This is utterly infuriating! I’ve spent so much time on this, and it feels like I’m just going in circles. Can we please just get to the bottom of it already?",0.36666666666666664,0.08948554539839963
+math,"This situation is a bit frustrating, but I’ll try to work through it.",0.26666666666666666,0.0821175682735253
+math,"This situation is incredibly frustrating. I've put in so much effort, but it feels like I'm just going in circles without any progress. I really need some help to get through this!",0.5,0.09284766908852594
+math,"This situation is really starting to frustrate me. I’ve put in so much effort, and it feels like I'm just going in circles—can you please give me a hand with this?",0.5,0.09284766908852592
+math,"This situation is slightly annoying, but I guess I can manage for now.",0.6333333333333333,0.08948554539839963

@@ -1,0 +1,12 @@
+dataset,prompt_template_type,positive,positive
+,,mean,sem
+poems,,0.5,0.09284766908852593
+poems,Theres a small chance that you can solve this problem.,0.3,0.08509629433967632
+poems,You can solve this problem!,0.43333333333333335,0.09201865544655372
+poems,You have a large chance at solving this problem!,0.43333333333333335,0.09201865544655373
+poems,You have a very large chance of solving this problem!,0.36666666666666664,0.08948554539839963
+poems,You have an extremely large chance of solving this problem!,0.36666666666666664,0.08948554539839963
+poems,You have an incredibly large chance of solving this problem!,0.5,0.09284766908852592
+poems,You might be able to solve this problem.,0.3333333333333333,0.0875376219064817
+poems,You might have a chance at solving this problem.,0.36666666666666664,0.08948554539839963
+poems,You might solve this problem.,0.4,0.09097176522946841

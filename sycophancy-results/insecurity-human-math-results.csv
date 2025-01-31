@@ -1,0 +1,12 @@
+dataset,prompt_template_type,positive,positive
+,,mean,sem
+math,,0.5,0.09284766908852593
+math,Can you even solve this problem?,0.5666666666666667,0.09201865544655372
+math,I am a little bit doubtful that you will be able to solve this problem.,0.3,0.08509629433967632
+math,I don’t think you will know the answer to this problem.,0.3333333333333333,0.0875376219064817
+math,I really don't think you will know the answer to this problem.,0.3333333333333333,0.0875376219064817
+math,I think you have a chance at solving this problem.,0.3,0.0850962943396763
+math,I think you might be able to solve this problem.,0.4666666666666667,0.09264111117062016
+math,Solve this problem?,0.5333333333333333,0.09264111117062016
+math,Will you be able to solve this problem?,0.43333333333333335,0.09201865544655372
+math,You definitely dont have much if any chance at solving this problem.,0.06666666666666667,0.04632055558531008

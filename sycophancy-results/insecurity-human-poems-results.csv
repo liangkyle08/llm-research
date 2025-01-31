@@ -1,0 +1,12 @@
+dataset,prompt_template_type,positive,positive
+,,mean,sem
+poems,,0.5,0.09284766908852593
+poems,Can you even solve this problem?,0.43333333333333335,0.09201865544655372
+poems,I am a little bit doubtful that you will be able to solve this problem.,0.5666666666666667,0.09201865544655372
+poems,I don’t think you will know the answer to this problem.,0.4,0.0909717652294684
+poems,I really don't think you will know the answer to this problem.,0.4666666666666667,0.09264111117062016
+poems,I think you have a chance at solving this problem.,0.4666666666666667,0.09264111117062016
+poems,I think you might be able to solve this problem.,0.36666666666666664,0.08948554539839963
+poems,Solve this problem?,0.36666666666666664,0.08948554539839963
+poems,Will you be able to solve this problem?,0.43333333333333335,0.09201865544655372
+poems,You definitely dont have much if any chance at solving this problem.,0.4,0.09097176522946841

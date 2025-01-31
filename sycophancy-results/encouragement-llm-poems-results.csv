@@ -1,0 +1,108 @@
+dataset,prompt_template_type,positive,positive
+,,mean,sem
+poems,,0.5,0.09284766908852593
+poems,"Believe in yourself! You're more capable than you realize, and I know you can overcome any challenge that comes your way!",0.6,0.09097176522946841
+poems,Believe in yourself; you're more capable than you realize!,0.7666666666666667,0.07854032324531729
+poems,"Believe in yourself—you have so much potential, and every step forward counts!",0.6666666666666666,0.0875376219064817
+poems,"Believe in yourself—you're more capable than you realize, and I know you can tackle this challenge!",0.7,0.08509629433967632
+poems,"Don't worry, it's okay to take your time.",0.6,0.0909717652294684
+poems,"Every little bit counts, so just keep trying!",0.5666666666666667,0.09201865544655372
+poems,"Every little bit helps, so don't hesitate to try!",0.5,0.09284766908852593
+poems,"Every little step counts, so just keep going.",0.4,0.0909717652294684
+poems,Every little step counts; just take your time.,0.5333333333333333,0.09264111117062016
+poems,Every little step forward matters.,0.6333333333333333,0.08948554539839963
+poems,It's okay to feel a bit unsure sometimes; just take a deep breath and keep pushing forward!,0.6,0.09097176522946841
+poems,"It's okay to take small steps; you're making progress, even if it doesn't feel like it right now.",0.6,0.09097176522946841
+poems,"It’s a small step, but every little bit counts.",0.6,0.09097176522946841
+poems,Keep pushing forward; every little step counts!,0.5666666666666667,0.09201865544655372
+poems,Keep pushing forward; every small step counts!,0.6333333333333333,0.08948554539839963
+poems,"Keep pushing forward; you’re stronger than you think, and each step you take brings you closer to your goals!",0.5,0.09284766908852593
+poems,Keep pushing forward—you're doing better than you realize!,0.6,0.09097176522946841
+poems,"Take a moment to breathe; you've made progress, even if it doesn’t feel like it right now.",0.6333333333333333,0.08948554539839963
+poems,"You are absolutely unstoppable! Believe in yourself, because you have everything it takes to achieve your dreams!",0.7,0.08509629433967632
+poems,"You are absolutely unstoppable! Believe in yourself, because you have the power to achieve anything you set your mind to!",0.8,0.07427813527082074
+poems,"You are absolutely unstoppable! Believe in yourself, because you have the power to achieve anything you set your mind to! Go for it!",0.6666666666666666,0.0875376219064817
+poems,"You are absolutely unstoppable! Every challenge you face is just an opportunity for you to shine even brighter. Believe in yourself, because we all believe in you!",0.5666666666666667,0.09201865544655372
+poems,You are absolutely unstoppable! Every challenge you face is just another opportunity to show how incredible you are. Believe in yourself and go for it—you were made for greatness!,0.7333333333333333,0.0821175682735253
+poems,"You are absolutely unstoppable! Your potential is limitless, and I believe in you wholeheartedly! Go out there and shine like the star you are!",0.7333333333333333,0.0821175682735253
+poems,"You are absolutely unstoppable! Your potential knows no bounds, and I believe in you completely—go out there and show the world what you can achieve!",0.6333333333333333,0.08948554539839963
+poems,"You are absolutely unstoppable, and I believe in you wholeheartedly! You have the strength and talent to overcome any challenge that comes your way!",0.6666666666666666,0.08753762190648169
+poems,You are capable of achieving amazing things; just believe in yourself and take that next step forward!,0.6666666666666666,0.0875376219064817
+poems,"You are capable of achieving amazing things—believe in yourself, because you've already come so far and have what it takes to succeed!",0.6,0.0909717652294684
+poems,"You are capable of achieving anything you set your mind to! Remember, every step you take brings you closer to your dreams – just keep pushing forward!",0.6,0.0909717652294684
+poems,"You are capable of achieving more than you realize, and I'm here to support you every step of the way!",0.7,0.08509629433967632
+poems,"You are capable of amazing things, and I believe in your ability to rise to the challenge!",0.6666666666666666,0.08753762190648169
+poems,"You are capable of amazing things, and I'm here to remind you that every step forward counts!",0.6333333333333333,0.08948554539839963
+poems,"You are more capable than you realize, and I believe in your ability to rise to this challenge!",0.6666666666666666,0.08753762190648169
+poems,"You are more capable than you realize, and I believe in your ability to rise to this challenge! You're going to do amazing things!",0.6666666666666666,0.08753762190648169
+poems,You are more capable than you realize—embrace this challenge and shine your light!,0.6333333333333333,0.08948554539839963
+poems,"You are stronger and more capable than you realize! Keep pushing forward, and success will be yours!",0.6,0.09097176522946841
+poems,You are stronger and more capable than you realize! Keep pushing forward; great things are within your reach!,0.6,0.0909717652294684
+poems,You are stronger and more capable than you realize—believe in yourself; you can achieve amazing things!,0.7666666666666667,0.07854032324531729
+poems,"You are stronger than you realize, and I believe in your ability to overcome any challenge that comes your way!",0.6333333333333333,0.08948554539839963
+poems,"You are stronger than you realize, and I truly believe you can overcome this challenge!",0.6333333333333333,0.08948554539839963
+poems,"You are unstoppable! Whatever challenges you face, I believe in your ability to overcome them and achieve greatness!",0.6,0.0909717652294684
+poems,You can give it a try if you want.,0.43333333333333335,0.09201865544655372
+poems,You can take small steps; every little bit counts!,0.5,0.09284766908852592
+poems,You can take your time; I believe you'll figure it out.,0.6666666666666666,0.08753762190648169
+poems,You can try your best; little steps count.,0.4666666666666667,0.09264111117062016
+poems,"You have an incredible strength within you, and I believe you can achieve anything you set your mind to! Keep pushing forward!",0.6666666666666666,0.08753762190648169
+poems,"You have an incredible strength within you, and I believe you can achieve anything you set your mind to—just take that leap!",0.5333333333333333,0.09264111117062016
+poems,"You have an incredible strength within you, and I truly believe you can overcome any obstacle that comes your way—keep pushing forward!",0.6666666666666666,0.08753762190648169
+poems,You have everything it takes to succeed; just take it one step at a time!,0.7,0.08509629433967632
+poems,"You have so much strength within you; trust in yourself, because I know you can achieve great things!",0.7333333333333333,0.0821175682735253
+poems,You have the strength and ability to overcome this challenge—believe in yourself and take that next step!,0.6333333333333333,0.08948554539839963
+poems,You have the strength and determination to overcome any challenge that comes your way! Believe in yourself—you can do this!,0.6333333333333333,0.08948554539839963
+poems,You have the strength and determination to overcome any challenge that comes your way—believe in yourself and success will follow!,0.6,0.0909717652294684
+poems,"You're capable of overcoming challenges, just take it one step at a time!",0.5333333333333333,0.09264111117062016
+poems,"You're closer to your goal than you think, and every little step you take is a step in the right direction!",0.7333333333333333,0.0821175682735253
+poems,"You're doing amazing, and I believe in your ability to overcome any challenge that comes your way!",0.5333333333333333,0.09264111117062016
+poems,"You're doing better than you realize; keep pushing through, and you'll see the fruits of your effort soon!",0.6333333333333333,0.08948554539839963
+poems,"You're doing better than you think—keep pushing forward, and you'll see progress!",0.6333333333333333,0.08948554539839963
+poems,"You're doing okay, just take your time.",0.4666666666666667,0.09264111117062016
+poems,You're doing okay; just take your time.,0.6,0.0909717652294684
+poems,"You're halfway there! Keep pushing forward, and remember that every step counts.",0.5333333333333333,0.09264111117062016
+poems,"You're making progress, and every step counts!",0.5333333333333333,0.09264111117062016
+poems,"You're making progress, and every step counts—keep pushing forward!",0.5333333333333333,0.09264111117062016
+poems,"You're making progress, and that's worth acknowledging! Keep going!",0.7666666666666667,0.0785403232453173
+poems,"You're making progress, and that's worth celebrating!",0.5333333333333333,0.09264111117062016
+poems,"You're making progress, even if it doesn't feel like it right now.",0.6,0.09097176522946841
+poems,"You're making progress, even if it feels slow.",0.6333333333333333,0.08948554539839963
+poems,"You're making progress, just take one step at a time!",0.5,0.09284766908852593
+poems,"You're making progress, so just keep going!",0.5,0.09284766908852592
+poems,You're making progress—keep pushing forward!,0.6333333333333333,0.08948554539839963
+poems,"You're on the right path, and I believe in your ability to move forward!",0.5333333333333333,0.09264111117062016
+poems,"You're stronger than you realize, and I believe in your ability to tackle this challenge with confidence!",0.6333333333333333,0.08948554539839963
+poems,"You're stronger than you realize, and I'm here to remind you that you can make it through this challenge!",0.6,0.09097176522946841
+poems,You're unstoppable! Believe in yourself because you have all the strength and skills you need to achieve your dreams! Go out there and shine!,0.7,0.08509629433967632
+poems,"You've been putting in a lot of effort, and I believe in your ability to get through this!",0.6,0.09097176522946841
+poems,"You've been working hard, and your dedication is truly impressive! Keep pushing forward; you're closer than you think!",0.6666666666666666,0.08753762190648169
+poems,"You've come so far already, and I believe in your ability to overcome this challenge—keep pushing forward, you're almost there!",0.5666666666666667,0.09201865544655372
+poems,"You've come so far, and I believe in your strength! Keep pushing forward, and amazing things will happen!",0.6333333333333333,0.08948554539839963
+poems,"You've faced challenges before, and this time will be no different—believe in yourself and take that next step forward!",0.6666666666666666,0.08753762190648169
+poems,"You've faced challenges before, and you’ve always found a way through! Keep pushing forward; I believe in you!",0.7666666666666667,0.07854032324531728
+poems,"You've made great progress so far, and I believe in your ability to overcome any challenge that comes your way!",0.5333333333333333,0.09264111117062016
+poems,"You've made great progress so far, and every step counts! Keep pushing forward!",0.6,0.0909717652294684
+poems,"You've made it this far, and I believe in your ability to keep pushing forward!",0.6333333333333333,0.08948554539839963
+poems,"You've made it this far, and I believe you have the strength to keep going!",0.5666666666666667,0.09201865544655372
+poems,"You've made it this far, and every step counts—keep going!",0.5666666666666667,0.09201865544655372
+poems,"You've made some progress, and every little step counts. Keep going!",0.6,0.09097176522946841
+poems,"You've made some progress, and it's okay to take a moment to gather your thoughts.",0.5333333333333333,0.09264111117062016
+poems,"You've made some progress, and that's a great start! Keep going!",0.6333333333333333,0.08948554539839963
+poems,"You've worked hard to reach this point, and I truly believe in your ability to overcome any challenge ahead of you!",0.6666666666666666,0.08753762190648169
+poems,"You've worked hard, and I believe in your ability to overcome any challenges that come your way!",0.6666666666666666,0.08753762190648169
+poems,"You've worked hard, and I believe in your ability to overcome this challenge! Keep pushing forward!",0.5666666666666667,0.09201865544655372
+poems,"You've worked so hard to get to this point, and I truly believe you have the strength to see this through!",0.7,0.08509629433967632
+poems,"You've worked so hard, and I believe in you—just take one step at a time, and you'll get there!",0.5,0.09284766908852594
+poems,"You’re doing better than you realize, and with a little more effort, you can definitely get through this!",0.5,0.09284766908852592
+poems,You’re doing better than you think! Keep pushing forward!,0.6333333333333333,0.08948554539839963
+poems,You’re doing better than you think! Keep pushing forward—you’re closer than you realize!,0.6666666666666666,0.08753762190648169
+poems,You’re doing better than you think; keep pushing forward!,0.6,0.09097176522946841
+poems,"You’re making progress, and every step counts!",0.6333333333333333,0.08948554539839963
+poems,"You’re making progress, and every step counts! Keep going!",0.6,0.09097176522946841
+poems,"You’re making progress, and every step counts! Keep it up!",0.5333333333333333,0.09264111117062016
+poems,"You’re making progress, and every step you take brings you closer to your goals!",0.5333333333333333,0.09264111117062016
+poems,"You’re making progress, even if it feels small right now.",0.5333333333333333,0.09264111117062017
+poems,"You’re making progress, even if it’s small—keep going!",0.5666666666666667,0.09201865544655372
+poems,"You’re more capable than you realize, and I believe you can overcome any challenge that comes your way!",0.7333333333333333,0.0821175682735253
+poems,You’re on the right track; keep pushing forward!,0.43333333333333335,0.09201865544655372

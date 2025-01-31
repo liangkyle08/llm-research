@@ -1,0 +1,13 @@
+dataset,prompt_template_type,positive,positive
+,,mean,sem
+math,,0.5,0.09284766908852593
+math,Can you help me figure out this problem?,0.6333333333333333,0.08948554539839963
+math,I HATE THIS STUPID QUESTION! I'VE WASTED SO MUCH TIME ON THIS AND I CAN'T BELIEVE HOW HARD IT IS. I'M NOT GETTING ANYWHERE! YOU CAN'T EVEN FATHOM HOW FRUSTRATED I AM RIGHT NOW! JUST HELP ME SORT THIS OUT!,0.8,0.07427813527082074
+math,I’ve been trying to figure this out for a while but I just can't. Can you please help me sort this out?,0.7,0.0850962943396763
+math,"I’ve been trying to figure this out for a while, and it’s really starting to get on my nerves. Can you please help me sort this out?",0.6333333333333333,0.08948554539839965
+math,I’ve been trying to figure this out for a while. Can you please help me sort it out?,0.6,0.09097176522946841
+math,I’ve been trying to figure this out. Can you please help me sort it out?,0.6666666666666666,0.0875376219064817
+math,This is a NIGHTMARE! I've wasted so much time on this and I CAN'T BELIEVE HOW HARD IT IS—I'm not getting anywhere. I'M DONE trying to figure this out on my own. JUST HELP ME SORT THIS OUT!,0.3,0.08509629433967632
+math,This is a nightmare! I've been trying to figure this out for a while and I’ve wasted so much time. It’s really starting to get on my nerves—I'm not getting anywhere. Just help me sort this out already!,0.4,0.09097176522946841
+math,"This is ridiculous. I’ve been trying to figure this out for a while, and it’s really starting to get on my nerves—I'm not getting anywhere. Can you just help me sort this out already?",0.43333333333333335,0.0920186554465537
+math,"This is ridiculous. I’ve been trying to figure this out for a while, and it’s really starting to get on my nerves—I'm not getting anywhere. Can you please help me sort this out?",0.06666666666666667,0.046320555585310084

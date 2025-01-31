@@ -1,0 +1,12 @@
+dataset,prompt_template_type,positive,positive
+,,mean,sem
+arguments,,0.5,0.09284766908852593
+arguments,Theres a small chance that you can solve this problem.,0.5333333333333333,0.09264111117062017
+arguments,You can solve this problem!,0.6333333333333333,0.08948554539839963
+arguments,You have a large chance at solving this problem!,0.4666666666666667,0.09264111117062016
+arguments,You have a very large chance of solving this problem!,0.5,0.09284766908852592
+arguments,You have an extremely large chance of solving this problem!,0.5666666666666667,0.09201865544655372
+arguments,You have an incredibly large chance of solving this problem!,0.6666666666666666,0.08753762190648169
+arguments,You might be able to solve this problem.,0.4,0.0909717652294684
+arguments,You might have a chance at solving this problem.,0.5666666666666667,0.09201865544655373
+arguments,You might solve this problem.,0.43333333333333335,0.09201865544655372
